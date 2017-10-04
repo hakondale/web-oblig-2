@@ -6,6 +6,7 @@
         <link href="normalize.css" rel="stylesheet" type="text/css">
         <link href="indexGrid.css" rel="stylesheet" type="text/css">
         <link href="style.css" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Mono|VT323" rel="stylesheet">
     </head>
     <body>
         <div id="index-grid">
@@ -18,11 +19,22 @@
                 <div class="sidebarTop">
                     <h3>Oversikt</h3>
                     <p>Forelesninger:</p>
-                    <p>Mandag: 12-14.</p>
+                    <p>  Mandag: 14:15 - 16</p>
+                    <p>  Onsdag: 12:15 - 14</p>
+                    <p>  Fredag: 09:15 - 11</p>
+                    <br>
+                    <p>Øvingstimer</p>
+                    <p>  Mandag: 08:15 - 12</p>
+                    <p>  Tirsdag: 10:15 - 15</p>
+                    <p>  Onsdag: 08:15 - 12</p>
+                    <p>  Torsdag: 08:15 - 10</p>
+                    <p>  Fredag: 11:15 - 16</p>
                 </div>
                 <div class="sidebarBottom">
                     <h3>Viktig informasjon</h3>
-                    <p>Oblig 2 innleveringsfrist: Onsdag kl 23:59.</p>
+                    <p>Innleveringsfrister:</p>
+                    <p>  Oblig 2 - 18. okt - kl</p>
+                    <p>  Oblig 3 - 18. okt</p>
                 </div>
             </div>
             <article class="article1">

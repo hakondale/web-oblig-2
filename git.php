@@ -30,7 +30,7 @@
                 <h1>Git og Github</h1>
                 <p>Git er noe som kalles et versjonskontrollsystem. Det vil si at alle forandringer man gjør på nettsiden(eller andre tjenester), vil bli lagret, og synlig. Et eksempel på hvordan dette er nyttig er hvis man har fått en bug på siden sin og man ikke vet hvor den kommer fra kan man gå tilbake til tidligere versjoner og se hva som har forandret seg. 
                 </p>
-                <p>Github er et grafisk brukergrensesnitt for git, hvor man kan publisere ("pushe") filene slik at andre også kan se dem og, dersom du tillater det, forrandre dem. Når du pusher en fil fra din PC til Github blir filen lagret på Github sin server slik at andre kan se og laste dem ned. Github holder god kontroll over forrandringer som blir gjort ved å bruke "brancher". Hvis to stykker har gjort hver sine forrandringer på samme fil, gjør github at man kan "merge" disse filene slik at begge forrandringene blir brukt. Det tillater derfor flere mennesker å kunne jobbe på samme prosjekt uten at det blir så rotete.
+                <p>Github er et grafisk brukergrensesnitt for git, hvor man kan publisere ("pushe") filene slik at andre også kan se dem og, dersom du tillater det, forrandre dem. Når du pusher en fil fra din PC til Github blir filen lagret på Github sin server slik at andre kan se og laste dem ned. Github holder god kontroll over forrandringer som blir gjort ved å bruke "brancher". Hvis to stykker har gjort hver sine forrandringer på samme fil, gjør github at man kan "merge" disse filene slik at begge forrandringene blir brukt. Det tillater derfor flere mennesker å kunne jobbe på samme prosjekt uten at det blir så rotete. 
                 </p>
 
             </article>
