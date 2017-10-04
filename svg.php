@@ -42,7 +42,8 @@
                 <p> 
                     SVG, eller Scalable Vector Images er et XML-basert format for å tegne to-dimensjonale vektorbilder. Vektorbilder har den fine kvaliteten med at de er tegnet av matematiske formler, noe som gjør at uansett hvor my man skalérer dem vil de altid ha samme oppløsning.
                 </p>
-
+                <p>Her under er et eksempel på hva man kan lage i SVG-formatet. 
+                </p>
                 <svg width="300" height="200">
                     <circle cx="50" cy="50" r="40" class="eye" />
                     <ellipse cx="50" cy="50" rx="40" ry="10" />
