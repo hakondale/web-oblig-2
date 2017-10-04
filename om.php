@@ -18,11 +18,22 @@
                 <div class="sidebarTop">
                     <h3>Oversikt</h3>
                     <p>Forelesninger:</p>
-                    <p>Mandag: 12-14.</p>
+                    <p>  Mandag: 14:15 - 16</p>
+                    <p>  Onsdag: 12:15 - 14</p>
+                    <p>  Fredag: 09:15 - 11</p>
+                    <br>
+                    <p>Øvingstimer</p>
+                    <p>  Mandag: 08:15 - 12</p>
+                    <p>  Tirsdag: 10:15 - 15</p>
+                    <p>  Onsdag: 08:15 - 12</p>
+                    <p>  Torsdag: 08:15 - 10</p>
+                    <p>  Fredag: 11:15 - 16</p>
                 </div>
                 <div class="sidebarBottom">
                     <h3>Viktig informasjon</h3>
-                    <p>Oblig 2 innleveringsfrist: Onsdag kl 23:59.</p>
+                    <p>Innleveringsfrister:</p>
+                    <p>  Oblig 2 - 18. okt - kl</p>
+                    <p>  Oblig 3 - 18. okt</p>
                 </div>
             </div>
 
@@ -58,16 +69,16 @@
                         </tr>
                     </table>
                 </div>
-            <p class="imageText">Her er en skisse av slik jeg hadde planlagt å lage forsiden da jeg startet prosjektet.</p>
-            <div class="imgContainer">
-                <img src="Bilder/forside.png" class="articleImage">
-            </div>
-            <p class="imageText">Dette er en skisse av slik jeg hadde planlagt å ha artikkelsidene. Jeg endte til slutt opp med å ikke ta med footeren i denne seksjonen fordi det ble litt rotete, i tillegg til at det ikke var nødvendig å ha den her. </p>
-            <div class="imgContainer">
-                <img src="Bilder/skisse%20artikkel.png" class="articleImage">
-            </div>
+                <p class="imageText">Her er en skisse av slik jeg hadde planlagt å lage forsiden da jeg startet prosjektet.</p>
+                <div class="imgContainer">
+                    <img src="Bilder/forside.png" class="articleImage">
+                </div>
+                <p class="imageText">Dette er en skisse av slik jeg hadde planlagt å ha artikkelsidene. Jeg endte til slutt opp med å ikke ta med footeren i denne seksjonen fordi det ble litt rotete, i tillegg til at det ikke var nødvendig å ha den her. </p>
+                <div class="imgContainer">
+                    <img src="Bilder/skisse%20artikkel.png" class="articleImage">
+                </div>
             </article>
-                <img src="Bilder/palm.png" class="articleImage">
+            <img src="Bilder/palm.png" class="articleImage">
         </div>
 
     </body>
